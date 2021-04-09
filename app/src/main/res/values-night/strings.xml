@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hide">Hide</string>
+    <string name="save_number">Save Number</string>
+    <string name="_00">-00</string>
+</resources>

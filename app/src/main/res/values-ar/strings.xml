@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حاسبة الضامنة</string>
+    <string name="hide">إخفاء</string>
+    <string name="save_number">حفظ الرقم</string>
+    <string name="_00">00</string>
+</resources>
